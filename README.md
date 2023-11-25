@@ -14,11 +14,11 @@ This implementation is an extension (4x4 version) of https://github.com/Nininiao
 
 ➖ ➕ ➖ ➕ ➖ ➕ ➖
 
-❌ ❕ ❌ ❕ ⭕ ❕ ⭕
+❌ ❕ ❌ ❕ ⭕ ❕ ❌
 
 ➖ ➕ ➖ ➕ ➖ ➕ ➖
 
-❌ ❕ ❌ ❕ ⭕ ❕ ⭕
+❌ ❕ ⭕ ❕ ❌ ❕ ⭕
 
 
 ## Representing State
