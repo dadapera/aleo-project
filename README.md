@@ -4,7 +4,7 @@
 
 A standard game of Tic-Tac-Toe in Leo.
 
-This implementation is an extension (4x4 version) of https://github.com/Nininiao/tictactoe-aleo.git 
+This implementation is an extension (4x4 version) of [https://github.com/Nininiao/tictactoe-aleo.git](https://github.com/Nininiao/tictactoe-aleo) 
 
 ⭕ ❕ ⭕ ❕ ❌ ❕ ❌
 
