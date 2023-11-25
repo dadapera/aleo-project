@@ -1,6 +1,6 @@
 {
-    "program": "tictactoe.aleo",
-    "version": "0.0.0",
+    "program": "tictactoe-extended.aleo",
+    "version": "0.0.1",
     "description": "",
     "license": "MIT"
 }
